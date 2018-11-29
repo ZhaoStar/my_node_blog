@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "我的第一个博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhaoStar/my_node_blog.git"
+  },
+  "author": "zhaostar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhaoStar/my_node_blog/issues"
+  },
+  "homepage": "https://github.com/ZhaoStar/my_node_blog#readme"
+}
